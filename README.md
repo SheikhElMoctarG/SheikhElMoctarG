@@ -1,13 +1,10 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
-
-## 🚀 About Me
-
-🎓 Hey, I'm Sheikh, a **Front-End Web Developer** with a focus on creating exceptional user experiences using technologies like **Vue.js**, **Nuxt.js**, **Tailwind CSS**, **Node.js**, **Express.js**, and **MongoDB**.
+🎓 Hey, I'm Sheikh, a **Full-Stack Web Developer** with a focus on creating exceptional user experiences using technologies like **Vue.js**, **Nuxt.js**, **Tailwind CSS**, **Node.js**, **Express.js**, and **MongoDB**.
 
 ## 🏅 Achievements
 
 - 🚀 **Vue.js & Nuxt.js Specialist** (Insert your specific achievements)
-- ⭐ **Great Systems using Nodejs** (Insert your specific achievements)
+- ⭐ **Great APIs Systems using Nodejs** (Insert your specific achievements)
 
 ## 🛠️ Skills
 
